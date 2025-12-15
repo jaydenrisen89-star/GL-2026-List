@@ -109,6 +109,11 @@
 
 ---
 
+## **Heart Shaker Media**
+- **Love in Quarantine** –
+
+---
+
 ## **Random**
 - **No Romeo** – EarnaFairy – 10 episodes  
 - **Beside the Dragon**
