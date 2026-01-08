@@ -101,6 +101,11 @@
 
 ---
 
+## **Uprising Entertainment**
+- **The Dragon** – PimWare
+
+---
+
 ## **Heart Shaker Media**
 - **Love in Quarantine** –
 
@@ -130,7 +135,6 @@
 ## **Random**
 - **No Romeo** – EarnaFairy – 10 episodes  
 - **Beside the Dragon** –
-- **The Dragon** –
 - **The Tiger** –
 - **The Swan** –
 - **My Sassy Bodyguard** –
