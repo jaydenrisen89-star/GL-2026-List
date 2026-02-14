@@ -90,8 +90,12 @@
 
 ---
 
-## **Motion Minds Entertainment**
+## **Mine Media**
 - **ClaireBell Specials** – MablePangjie – 3 episodes – 16-30 January
+
+---
+
+## **Motion Minds Entertainment**
 - **By Your Side** – ShellyPundao
 
 ---
