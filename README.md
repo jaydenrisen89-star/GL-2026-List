@@ -9,14 +9,13 @@
 
 ## **4 Elements Series**
 - **The Earth** – AppleMim – 8 episodes – 24 January   
-- **The Water** – EngLot – 8 episodes – March  
-- **The Air** – FreenBecky – 8 episodes – May
-- **The Fire** – NamneungNoey – 8 episodes – August 
-
+- **The Water** – EngLot – 8 episodes – 21 March (Estimate)
+- **The Air** – FreenBecky – 8 episodes – 16 May (Estimate)
+- **The Fire** – NamneungNoey – 8 episodes – 11 July (Estimate)
 ---
 
 ## **GMMTV**
-- **Girl Rules** – NamtanFilm, MilkLove, ViewMim – (Rumored) 31 January 
+- **Girl Rules** – NamtanFilm, MilkLove, ViewMim
 - **Her** – NamtanFilm  
 - **Oxytoxin** – TonkhawWaifha  
 - **Love Echoes** – JuneMewnich  
@@ -40,15 +39,15 @@
 
 ## **Channel 3**
 - **Fulfill** – OomBam  
-- **Dream of a Wedding Day** – LingOrm  
-- **Play Park** – TanYa – 20 Febuary
+- **In Love Forever** – LingOrm  
+- **Play Park** – TanYa – 8 Episodes – 20 Febuary
 
 ---
 
 ## **WeTV**
 - **Denied Love Special: Endless** – EnjoyJune – 2 Episodes – 29 January 
 - **Love on Hire** – EnjoyJune  
-- **Frozen Valentine** – Natty Natthamon & Yeepun Purichaya  
+- **Frozen Valentine** – Natty Natthamon & Yeepun Purichaya – 8 Episodes – 12 February
 
 ---
 
@@ -58,22 +57,22 @@
 ---
 
 ## **Change2561**
-- **Chasing Love** – LMSY
-- **I wanna be sup'star** – LillyBelle, FayGene – 6 February 2026
-- **TBA – 28/01/2026**
+- **Chasing Love** – NileNamwan
+- **I wanna be sup'star** – LillyBelle, FayGene – 8 Episodes – 6 February
+- **Hometown Romance** – LMSY
 
 ---
 
 ## **NorthStar**
 - **Wedding Dream**  
 - **The Hidden Blood**  
-- **By Your Side**
+- **Lunar Secret** – GinJay
 
 ---
 
 ## **Star Hunter Entertainment**
 - **Remain** – AndaLookkaew  
-- **My Only Sunshine** – AtomMer 
+- **My Only Sunshine** – AtomMer – 8 Episodes – 25 February
 - **Hidden Heart** – NoonPraewa
 - **Khom Khlang** – MeenBabe
 
@@ -92,7 +91,8 @@
 ---
 
 ## **Motion Minds Entertainment**
-- **ClaireBell Specials** – MablePangjie – 3 episodes – 16-30 January 2026
+- **ClaireBell Specials** – MablePangjie – 3 episodes – 16-30 January
+- **By Your Side** – ShellyPundao
 
 ---
 
@@ -117,7 +117,7 @@
 ---
 
 ## **Mono**
-- **Heart Code** – TungpangJessie – 13 February 2026
+- **Heart Code** – TungpangJessie – 7 Episodes – 13 February
 
 ---
 
@@ -131,6 +131,11 @@
 - **Be My Angel** – 
 
 ---
+
+## **Studio Wabi Sabi**
+- **Built In Love** –
+
+--
 
 ## **Random**
 - **No Romeo** – EarnaFairy – 10 episodes  
@@ -155,4 +160,11 @@
 
 ---
 
-**Total** – 57 (+8 WeTv) (+1 Brazil)
+## **Other GL**
+- **Candy** 
+- **Are You Doing Well?**
+- **Shock Me Girls**
+- **Mystery Under The Moon's Shadow**
+
+---
+**Total** – 60 (+8 WeTv) (+1 Brazil) (+4 Other)
