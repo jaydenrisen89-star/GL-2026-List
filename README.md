@@ -74,7 +74,7 @@
 - **Remain** – AndaLookkaew  
 - **My Only Sunshine** – AtomMer – 8 Episodes – 25 February
 - **Hidden Heart** – NoonPraewa
-- **Khom Khlang** – MeenBabe
+- **Khom Khlang** – PuiBint
 
 ---
 
