@@ -3,7 +3,7 @@
 ---
 
 ## **Fabel Entertainment**
-- **Broken of Love** – Faye
+- **Broken of Love** – FayeAtom - 8 episodes - 28 March
 
 ---
 
@@ -15,7 +15,7 @@
 ---
 
 ## **GMMTV**
-- **Girl Rules** – NamtanFilm, MilkLove, ViewMim
+- **Girl Rules** – NamtanFilm, MilkLove, ViewMim - 13 episodes - 9 March
 - **Her** – NamtanFilm  
 - **Oxytoxin** – TonkhawWaifha  
 - **Love Echoes** – JuneMewnich  
@@ -86,7 +86,7 @@
 
 ## **Kongthup Channel**
 - **Love Bound** – OrmFolk, PloyPanda, ZenUL  
-- **Shadow of Love** – PraifahBebell, GunDonut  
+- **Shadow of Love** – PraifahBebell, GunDonut - 24 March
 
 ---
 
