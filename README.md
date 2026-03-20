@@ -101,7 +101,7 @@
 ---
 
 ## **Snur Entertainment**
-- **Dangerous Queen Special** – TkNur  
+- **Dangerous Queen Special** – TkNur - 22 March
 
 ---
 
