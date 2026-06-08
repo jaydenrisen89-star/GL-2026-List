@@ -6,9 +6,9 @@
 
 # Fabel Entertainment
 
-| Title | Couple | Episodes | Premiere | Rating |
-|------|--------|----------|----------|--------|
-| Broken of Love | FayeAtom | 8 | 28 March | ⭐ 10/10 |
+| Title | Couple | Episodes | Premiere | Rating | Available at
+|------|--------|----------|----------|--------| ----------|
+| Broken of Love | FayeAtom | 8 | 28 March | ⭐ 10/10 | https://youtube.com/playlist?list=PLLWNigqb3geF0mMh9xXg6lnii373dSqV_&si=Bm7C52YXp_mhG6Xv
 
 ---
 
