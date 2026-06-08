@@ -4,7 +4,7 @@
 
 ---
 
-# Fabel Entertainment
+## Fabel Entertainment
 
 | Title | Couple | Episodes | Premiere | Rating | Available at
 |------|--------|----------|----------|--------| ----------|
@@ -12,7 +12,7 @@
 
 ---
 
-# 4 Elements Series
+## 4 Elements Series
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -23,7 +23,7 @@
 
 ---
 
-# GMMTV
+## GMMTV
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -39,7 +39,7 @@
 
 ---
 
-# Idol Factory
+## Idol Factory
 
 | Title | Couple | Episodes |
 |------|--------|----------|
@@ -47,7 +47,7 @@
 
 ---
 
-# MGI Beyond
+## MGI Beyond
 
 | Title | Couple |
 |------|--------|
@@ -55,7 +55,7 @@
 
 ---
 
-# Channel 3
+## Channel 3
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -65,7 +65,7 @@
 
 ---
 
-# WeTV
+## WeTV
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -75,7 +75,7 @@
 
 ---
 
-# +8 Originals
+## +8 Originals
 
 | Title |
 |------|
@@ -93,7 +93,7 @@
 
 ---
 
-# NorthStar
+## NorthStar
 
 | Title | Couple |
 |------|--------|
@@ -103,7 +103,7 @@
 
 ---
 
-# Star Hunter Entertainment
+## Star Hunter Entertainment
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -114,7 +114,7 @@
 
 ---
 
-# FRT Entertainment
+## FRT Entertainment
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -124,7 +124,7 @@
 
 ---
 
-# Kongthup Channel
+## Kongthup Channel
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -133,7 +133,7 @@
 
 ---
 
-# S Class Entertainment
+## S Class Entertainment
 
 | Title | Couple |
 |------|--------|
@@ -141,7 +141,7 @@
 
 ---
 
-# Mine Media
+## Mine Media
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -149,7 +149,7 @@
 
 ---
 
-# Motion Minds Entertainment
+## Motion Minds Entertainment
 
 | Title | Couple |
 |------|--------|
@@ -157,7 +157,7 @@
 
 ---
 
-# Snur Entertainment
+## Snur Entertainment
 
 | Title | Couple |
 |------|--------|
@@ -165,7 +165,7 @@
 
 ---
 
-# Uprising Entertainment
+## Uprising Entertainment
 
 | Title | Couple |
 |------|--------|
@@ -173,7 +173,7 @@
 
 ---
 
-# Heart Shaker Media
+## Heart Shaker Media
 
 | Title |
 |------|
@@ -181,7 +181,7 @@
 
 ---
 
-# Deemak Production
+## Deemak Production
 
 | Title |
 |------|
@@ -189,7 +189,7 @@
 
 ---
 
-# Mono
+## Mono
 
 | Title | Couple | Episodes | Premiere | Rating |
 |------|--------|----------|----------|--------|
@@ -197,7 +197,7 @@
 
 ---
 
-# Me MindY
+## Me MindY
 
 | Title | Couple | Episodes | Premiere |
 |------|--------|----------|----------|
@@ -206,7 +206,7 @@
 
 ---
 
-# Penny Studio
+## Penny Studio
 
 | Title | Status | Rating |
 |------|--------|--------|
@@ -214,7 +214,7 @@
 
 ---
 
-# Studio Wabi Sabi
+## Studio Wabi Sabi
 
 | Title |
 |------|
@@ -222,7 +222,7 @@
 
 ---
 
-# Random
+## Random
 
 | Title | Notes |
 |------|------|
@@ -243,7 +243,7 @@
 
 ---
 
-# Brazilian GL
+## Brazilian GL
 
 | Title |
 |------|
@@ -251,7 +251,7 @@
 
 ---
 
-# Other GL
+## Other GL
 
 | Title |
 |------|
@@ -263,7 +263,7 @@
 
 ---
 
-# 📊 Rated Highlights
+## 📊 Rated Highlights
 
 | Rating | Series |
 |--------|--------|
@@ -279,7 +279,7 @@
 
 ---
 
-# 🏆 Top Highlights
+## 🏆 Top Highlights
 
 - **Highest Rated Overall:** The Water ♾️/10  
 - **Best Standard Rating:** Broken of Love & Shades S1 (10/10)
