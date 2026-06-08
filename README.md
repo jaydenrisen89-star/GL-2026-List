@@ -89,7 +89,7 @@
 |------|--------|----------|----------|--------|
 | I Wanna Be Sup'star | LillyBelle, FayGene | 8 | 6 February | ⭐ 5/10 |
 | Hometown Romance | LMSY | 8 | 3 April | ⭐ 8/10 |
-| Chasing Love | NileNamwan | 8 | 29 May | — |
+| Chasing Love | NileNamwan, FayGene, GiftAomsin | 8 | 29 May | — |
 
 ---
 
